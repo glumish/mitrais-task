@@ -1,0 +1,10 @@
+*.pyc
+*/*/*/__pycache__/
+*/*/__pycache__/
+*/__pycache__/
+*/migrations/*
+/media/*
+/node_modules/
+/core/config.py
+!*/migrations/__init__.py
+package-lock.json
